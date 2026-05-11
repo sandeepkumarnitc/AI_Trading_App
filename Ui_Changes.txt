@@ -1,0 +1,13 @@
+🚀 Next (only if you want elite level)
+
+You can still add:
+
+Liquidity sweep detection (stop hunt before move)
+Delta / orderflow proxy
+Time-of-day bias (expiry edge)
+
+If you want that, say:
+
+👉 “pro upgrade”
+
+And I’ll take this to hedge-fund level.
